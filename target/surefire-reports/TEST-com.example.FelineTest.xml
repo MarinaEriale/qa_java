@@ -4,7 +4,7 @@
     <property name="java.specification.version" value="20"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1251"/>
-    <property name="java.class.path" value="C:\Users\marin\Practicum_QA\Sprint_6\qa_java\target\test-classes;C:\Users\marin\Practicum_QA\Sprint_6\qa_java\target\classes;C:\Users\marin\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\marin\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\marin\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\marin\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\marin\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\marin\.m2\repository\net\bytebuddy\byte-buddy\1.14.12\byte-buddy-1.14.12.jar;"/>
+    <property name="java.class.path" value="C:\Users\marin\Practicum_QA\Sprint_6\qa_java\target\test-classes;C:\Users\marin\Practicum_QA\Sprint_6\qa_java\target\classes;C:\Users\marin\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\marin\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\marin\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\marin\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\marin\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\marin\.m2\repository\net\bytebuddy\byte-buddy\1.14.12\byte-buddy-1.14.12.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
-    <property name="sun.java.command" value="C:\Users\marin\AppData\Local\Temp\surefire1843219805663434118\surefirebooter-20241016233821054_3.jar C:\Users\marin\AppData\Local\Temp\surefire1843219805663434118 2024-10-16T23-38-20_899-jvmRun1 surefire-20241016233821054_1tmp surefire_0-20241016233821054_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\marin\AppData\Local\Temp\surefire4170698836661227012\surefirebooter-20241018175232854_3.jar C:\Users\marin\AppData\Local\Temp\surefire4170698836661227012 2024-10-18T17-52-32_621-jvmRun1 surefire-20241018175232854_1tmp surefire_0-20241018175232854_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\marin\Practicum_QA\Sprint_6\qa_java\target\test-classes;C:\Users\marin\Practicum_QA\Sprint_6\qa_java\target\classes;C:\Users\marin\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\marin\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\marin\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\marin\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\marin\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\marin\.m2\repository\net\bytebuddy\byte-buddy\1.14.12\byte-buddy-1.14.12.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\marin\Practicum_QA\Sprint_6\qa_java\target\test-classes;C:\Users\marin\Practicum_QA\Sprint_6\qa_java\target\classes;C:\Users\marin\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\marin\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\marin\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\marin\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\marin\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\marin\.m2\repository\net\bytebuddy\byte-buddy\1.14.12\byte-buddy-1.14.12.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\marin"/>
     <property name="user.language" value="ru"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\marin\AppData\Local\Temp\surefire1843219805663434118\surefirebooter-20241016233821054_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\marin\AppData\Local\Temp\surefire4170698836661227012\surefirebooter-20241018175232854_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="20.0.2+9-78"/>

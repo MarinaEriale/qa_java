@@ -18,7 +18,6 @@ public class Lion extends Animal{
         }
     }
 
-    //Feline feline = new Feline();
 
     public int getKittens() {
         return cats.getKittens();
